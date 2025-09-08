@@ -1,0 +1,12 @@
+ {
+ "name": "hello-api",
+ "version": "1.0.0",
+ "main": "src/index.js",
+ "scripts": {
+ "start": "node src/index.js",
+ "test": "node -e \"console.log('unit tests go here')\""
+ },
+ "dependencies": {
+ "express": "^4.19.2"
+ }
+ }
